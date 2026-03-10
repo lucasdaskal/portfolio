@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(brew list node)",
+      "Read(//usr/local/bin/**)",
+      "Bash(brew:*)",
+      "Bash(export:*)",
+      "Bash(curl:*)",
+      "Bash(python3:*)",
+      "Bash(mkdir:*)"
+    ]
+  }
+}
